@@ -1,2 +1,4 @@
 *.txt
 *.npy
+*.npy.xz
+*.pkl
