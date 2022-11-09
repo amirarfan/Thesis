@@ -1,6 +1,6 @@
 # %%
 """
-file: mnist_cks.py
+file: mnist_cks_neg.py
 
 Testing out negative transfer effects of BPC extracted features problem, on the test-data, using Top-k minimization and majority voting
 """
