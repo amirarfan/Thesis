@@ -1,6 +1,6 @@
 #%%
 """
-file: mnist_cks_cl_valid.py
+file: mnist_cks_cl_valid_neg.py
 
 Testing of negative transfer effects of original problem, and BPC extracted features on a training and validation subset. 
 
